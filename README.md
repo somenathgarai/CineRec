@@ -24,7 +24,7 @@ The movie recommendation system analyzes and cleans movie data, applies natural 
 
 3. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
 
 4. Run the Streamlit app:
    ```bash
