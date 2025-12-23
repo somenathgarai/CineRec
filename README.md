@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-This repository contains an end-to-end movie recommendation system built using machine learning techniques, data analysis, NLTK for text processing, CountVectorizer for feature extraction, cosine similarity for recommendation, and TMDB API for fetching movie data.
+This repository contains CineRec, an end-to-end movie recommendation system built using machine learning techniques, data analysis, NLTK for text processing, CountVectorizer for feature extraction, cosine similarity for recommendation, and TMDB API for fetching movie data.
 
 ## Overview
 The movie recommendation system analyzes and cleans movie data, applies natural language processing techniques, and uses machine learning algorithms to recommend movies based on user input. The cosine similarity metric is employed to find similarities between movies, providing personalized recommendations.
@@ -16,11 +16,11 @@ The movie recommendation system analyzes and cleans movie data, applies natural 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Bramitha-gowda-M/Movie-Recommendation-System>
+   git clone <https://github.com/somenathgarai/CineRec>
 
 2. Navigate to the project directory:
    ```bash
-   cd MovieRecommendationSystem
+   cd CineRec
 
 3. Install dependencies:
    ```bash
